@@ -1,0 +1,19 @@
+{
+  "name": "react-rev",
+  "version": "1.0.0",
+  "description": "sample react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yokaiemporer/React-rev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yokaiemporer/React-rev/issues"
+  },
+  "homepage": "https://github.com/yokaiemporer/React-rev#readme"
+}
